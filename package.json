@@ -1,0 +1,23 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAwad18/WebSocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAwad18/WebSocket/issues"
+  },
+  "homepage": "https://github.com/RAwad18/WebSocket#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
